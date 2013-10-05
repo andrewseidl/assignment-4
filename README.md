@@ -4,6 +4,11 @@ For this assignment, you should implement a module that solves a problem related
 
 # Projects
 
+### [`region-quadtree`](https://github.com/melanz/)
+
+Author: Daniel Melanz
+
+The region quadtree represents a partition of space in two dimensions by decomposing the region into four equal quadrants, subquadrants, and so on with each leaf node containing data corresponding to a specific subregion.
 
 # Ideas
 
