@@ -4,7 +4,7 @@ For this assignment, you should implement a module that solves a problem related
 
 # Projects
 
-### [`region-quadtree`](https://github.com/melanz/)
+### [`region-quadtree-2d`](https://github.com/melanz/region-quadtree-2d)
 
 Author: Daniel Melanz
 
